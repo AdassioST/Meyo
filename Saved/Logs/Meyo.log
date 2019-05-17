@@ -1284,3 +1284,56 @@ Exception rethrown at [0]:
 [2019.05.17-18.06.08:749][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
 [2019.05.17-18.06.08:750][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.282
 [2019.05.17-18.09.57:094][ 90]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (44.481 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.17-18.16.13:454][ 50]LogUObjectHash: Compacting FUObjectHashTables data took  37.83ms
+[2019.05.17-18.16.13:454][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 3.411
+[2019.05.17-18.26.21:443][335]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.05.17-18.26.21:443][335]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 5.726
+[2019.05.17-18.36.22:106][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.05.17-18.36.22:107][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.192
+[2019.05.17-18.44.11:706][307]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-18.46.22:678][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.05.17-18.46.22:679][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.124
+[2019.05.17-18.55.24:560][311]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-18.56.23:087][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.05.17-18.56.23:087][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.111
+[2019.05.17-18.58.25:409][840]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-19.04.53:010][983]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-19.04.54:099][984]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-19.06.23:828][249]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.05.17-19.06.23:829][249]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.133
+[2019.05.17-19.16.25:000][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.05.17-19.16.25:001][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.183
+[2019.05.17-19.26.25:234][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.05.17-19.26.25:234][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.078
+[2019.05.17-19.36.37:542][531]LogUObjectHash: Compacting FUObjectHashTables data took 580.67ms
+[2019.05.17-19.36.37:956][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 7.742
+[2019.05.17-19.38.47:100][914]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-19.47.31:680][294]LogUObjectHash: Compacting FUObjectHashTables data took 3795.16ms
+[2019.05.17-19.47.33:554][294]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 43.202
+[2019.05.17-19.51.20:623][298]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.17-19.51.22:203][298]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (2.027 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.17-19.51.22:203][298]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (2.028 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.17-19.51.56:738][389]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.562 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.17-19.52.58:972][460]LogUObjectHash: Compacting FUObjectHashTables data took 3650.72ms
+[2019.05.17-19.53.39:264][460]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.17-19.53.56:480][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.05.17-19.54.22:452][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-19.54.25:866][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.17-19.57.08:818][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.12:475][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.12:975][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.13:476][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.13:976][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.14:476][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.14:977][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.15:477][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.15:977][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.19:736][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.20:236][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.20:737][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.29:837][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.30:337][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.30:837][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.31:338][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.31:838][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.17-19.57.32:338][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
