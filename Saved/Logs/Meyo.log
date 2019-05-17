@@ -1139,3 +1139,148 @@ Exception rethrown at [0]:
 [2019.05.17-17.14.56:745][107]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.028 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.05.17-17.16.03:566][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.17-17.21.07:855][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.17-17.22.53:120][608]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2019.05.17-17.22.53:538][608]Job has failed! Job is closed while Tasks are still PENDING
+[2019.05.17-17.22.53:539][608]DumpUnbuiltLightIteractions
+[2019.05.17-17.22.53:539][608]Lights with unbuilt interactions: 1
+[2019.05.17-17.22.53:539][608]    Light PointLight2_3
+[2019.05.17-17.22.53:539][608]
+[2019.05.17-17.22.53:539][608]Primitives with unbuilt interactions: 81
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.GarageBoxEmpty_52.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Floor02_67.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.CoffeeTable2_42.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Walls_27.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Walls_25.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Walls_05_37.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.VaseF3_75.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.VaseF2_69.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.VaseD2_81.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.VaseB3_72.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.VaseA2_78.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.SofaSmall_2.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.PlateE15_54.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.PhotoFrameD_60.StaticMeshComponent0
+[2019.05.17-17.22.53:539][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.PhotoFrameC_57.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.PhotoFrameB_63.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.PhotoFrameA_66.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Outlet3_138.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.NotebookStack_small_120.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.LightSwitch2_175.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.LaptopClosed_48.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.JalousieDouble2_23.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.GarageShelfB_31.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.GarageBoxFilledSmall_196.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.GarageBoxCap3_193.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Floor05_73.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Floor04_71.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Fireplace_2.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.CupE_51.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Ceiling05_114.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.CandleSmall_5.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.CandleBig_2.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BoxSmall_42.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BoxSmall8_481.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BoxSmall3_49.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BoxSmall2.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BoxMid_46.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BoxBig_38.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BooksSetB_90.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BooksSetB2_93.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BooksSetA3_96.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BooksSetA2_87.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookG_108.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookF_114.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookE_84.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookE3_117.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookE2_99.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookD_111.StaticMeshComponent0
+[2019.05.17-17.22.53:540][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookB2_105.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BookA_102.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Blinds_wide2_25.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetG_B_actor2_257.KitchenSetG
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetG_B_actor2_257.KitchenSetG_Door_L
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetG_B_actor_113.KitchenSetG
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetG_B_actor_113.KitchenSetG_Door_L
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetG_B_actor_113.KitchenSetG_Door_R
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Window_wide_actor2.Window_wide_Window_wide
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetB_B_actor2_362.KitchenSetB
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetB_B_actor2_362.KitchenSetB_Door_L
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetB_B_actor_167.KitchenSetB
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetB_B_actor_167.KitchenSetB_Door_L
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.KitchenSetB_B_actor_167.KitchenSetB_Door_R
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.LampTable_actor_474.LampTable
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.AC_unit_actor_126.AC_unit_AC_unit
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.BathroomSink_actor3_134.BathroomSink
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Cabinet_actor_290.Cabinet_Door_R
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Cabinet_actor_290.Cabinet_Door_L
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Cabinet_actor_290.Cabinet_Cabinet
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Cabinet_actor2.Cabinet_Door_R
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Cabinet_actor2.Cabinet_Door_L
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Cabinet_actor2.Cabinet_Cabinet
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Clock_actor_188.Clock_glass
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Clock_actor_188.Clock
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.LampFluorSmall_actor_18.LampFluor
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.LampFluorSmall_actor2.LampFluor
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Walls_23.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.House_exterior_2.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Floor_garage_87.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Floor03_69.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Ceiling_garage_134.StaticMeshComponent0
+[2019.05.17-17.22.53:541][608]    Primitive StaticMeshComponent /Game/HQ_ResidentialHouse/Levels/Demonstration.Demonstration:PersistentLevel.Walls_garage_47.StaticMeshComponent0
+[2019.05.17-17.22.58:972][609]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.17-17.22.58:972][609]MapCheck: New page: Demonstration - May 17, 2019, 7:22:58 AM
+[2019.05.17-17.22.58:979][609]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.05.17-17.22.58:981][609]MapCheck: Warning: Blinds_wide2_25 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_Blinds_wide' 
+[2019.05.17-17.22.58:981][609]MapCheck: Warning: Curtain2_54 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_Curtain' 
+[2019.05.17-17.22.58:983][609]MapCheck: Warning: VaseB_24 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_VaseB' 
+[2019.05.17-17.22.58:983][609]MapCheck: Warning: VaseD_67 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_VaseD' 
+[2019.05.17-17.22.58:984][609]MapCheck: Warning: VaseE2_146 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_VaseE' 
+[2019.05.17-17.22.58:987][609]MapCheck: Warning: VaseE3_39 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_VaseE' 
+[2019.05.17-17.22.58:987][609]MapCheck: Warning: VaseF3_75 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_VaseF' 
+[2019.05.17-17.22.58:987][609]MapCheck: Warning: VaseA2_78 More overridden materials (3) on static mesh component than are referenced (1) in source mesh 'SM_VaseA' 
+[2019.05.17-17.22.58:988][609]MapCheck: Warning: Soap2_14 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_Soap' 
+[2019.05.17-17.22.58:988][609]MapCheck: Warning: ToothBrush2 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_ToothBrush' 
+[2019.05.17-17.22.58:989][609]MapCheck: Warning: Shampoo2_48 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_Shampoo' 
+[2019.05.17-17.22.58:991][609]MapCheck: Warning: ToothPaste2_430 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_ToothPaste' 
+[2019.05.17-17.22.58:992][609]MapCheck: Warning: Balsam2_439 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_Balsam' 
+[2019.05.17-17.22.58:992][609]MapCheck: Warning: ToothBrush4_442 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_ToothBrush' 
+[2019.05.17-17.22.58:992][609]MapCheck: Warning: Shampoo4_448 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'SM_Shampoo' 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: Ground Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: DoorGarage_actor2 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: DoorGarage_actor_137 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: DoorMain_actor_296 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: DoorNarrow_actor2_285 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: DoorNarrow_actor3 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: DoorNarrow_actor4 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:993][609]MapCheck: Warning: DoorNarrow_actor_34 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:994][609]MapCheck: Warning: DoorWide_actor2 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:994][609]MapCheck: Warning: DoorWide_actor3 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:994][609]MapCheck: Warning: DoorWide_actor4 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:994][609]MapCheck: Warning: DoorWide_actor5 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:994][609]MapCheck: Warning: DoorWide_actor_33 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2019.05.17-17.22.58:995][609]MapCheck: Map check complete: 1 Error(s), 28 Warning(s), took 21.997ms to complete.
+[2019.05.17-17.23.02:230][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.17-17.23.18:008][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.17-17.23.18:120][735]LogSlate: Window 'Message Log' being destroyed
+[2019.05.17-17.23.18:238][735]LogSlate: Window 'Message Log' being destroyed
+[2019.05.17-17.23.25:580][810]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.17-17.23.41:741][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.17-17.23.43:164][981]LogSlate: Took 0.106545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.17-17.23.55:863][987]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (PictureSetB2)
+[2019.05.17-17.23.58:550][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.17-17.24.05:823][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.17-17.36.06:460][689]LogUObjectHash: Compacting FUObjectHashTables data took  11.05ms
+[2019.05.17-17.36.06:482][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.421
+[2019.05.17-17.46.07:480][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.05.17-17.46.07:480][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.363
+[2019.05.17-17.51.57:775][271]LogHttp: Warning: 00000179E4388A40: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BFD7C26-45CF-3C46-E8A7-9998CB1F24D9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=8a43d6114c98c67ba10bb5968ace38a1%7C36498cf9bdc64e44aa42d7f0edc5c5d9%7Cfe0bd82e-32fd-4132-859a-6ee6839fdbde&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.05.17-17.51.57:782][271]LogHttp: Warning: 00000179E4388A40 Response Header Server: awselb/2.0
+[2019.05.17-17.51.57:782][271]LogHttp: Warning: 00000179E4388A40 Response Header Date: Fri, 17 May 2019 17:51:55 GMT
+[2019.05.17-17.51.57:782][271]LogHttp: Warning: 00000179E4388A40 Response Header Content-Type: text/html
+[2019.05.17-17.51.57:782][271]LogHttp: Warning: 00000179E4388A40 Response Header Content-Length: 138
+[2019.05.17-17.51.57:782][271]LogHttp: Warning: 00000179E4388A40 Response Header Connection: keep-alive
+[2019.05.17-17.56.08:063][953]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2019.05.17-17.56.08:064][953]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.240
+[2019.05.17-18.06.08:749][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.05.17-18.06.08:750][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HQ_ResidentialHouse/Levels/Demonstration' took 0.282
+[2019.05.17-18.09.57:094][ 90]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (44.481 sec). This should never happen. Something is wrong with the timer delegate!
