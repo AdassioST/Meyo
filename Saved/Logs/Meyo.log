@@ -551,3 +551,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.17-00.23.30:301][876]LogUObjectHash: Compacting FUObjectHashTables data took  38.69ms
 [2019.05.17-00.23.31:958][876]LogSlate: Window 'Save Content' being destroyed
 [2019.05.17-00.23.34:064][876]LogSavePackage: Moving '../../../../../../Users/Cynthia/Documents/Unreal Projects/Meyo/Saved/YS_PlayerController0A030B6C4B10E2D94A99B6B3B46987A1.tmp' to '../../../../../../Users/Cynthia/Documents/Unreal Projects/Meyo/Content/GameContent/ProjectBP/Main/YS_PlayerController.uasset'
+[2019.05.17-00.28.38:395][973]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameContent/ProjectBP/Main/YS_GameMode.YS_GameMode
+[2019.05.17-00.28.40:756][973]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2019.05.17-00.29.06:698][294]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.17-00.29.10:038][467]BlueprintLog: New page: Compile YS_GameMode
+[2019.05.17-00.29.11:171][467]LogUObjectHash: Compacting FUObjectHashTables data took  16.34ms
+[2019.05.17-00.29.12:286][502]LogSavePackage: Moving '../../../../../../Users/Cynthia/Documents/Unreal Projects/Meyo/Saved/YS_GameMode7D312D1D4A4767DD55C1F0A3B51BEF14.tmp' to '../../../../../../Users/Cynthia/Documents/Unreal Projects/Meyo/Content/GameContent/ProjectBP/Main/YS_GameMode.uasset'
+[2019.05.17-00.29.18:967][903]LogSlate: Window 'YS_GameMode' being destroyed
+[2019.05.17-00.29.28:942][503]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.05.17-00.29.32:810][503]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.17-00.29.43:777][611]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.05.17-00.29.43:777][611]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.05.17-00.29.43:777][611]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.05.17-00.29.47:058][918]SourceControl: fatal: /Script: '/Script' is outside repository
